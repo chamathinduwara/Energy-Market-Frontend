@@ -1,40 +1,47 @@
-# Project Name
+# Energy Market Frontend
 
-Brief project description or tagline.
+Empower your energy trading experience with the Energy Market Frontend – your gateway to seamless proposal management. Collaborate effectively in the dynamic energy market by creating, updating, and accepting proposals with ease. Gain real-time insights into the lifecycle of proposals, from creation to finalization, and stay informed about other users' activities.
 
-![Project Screenshot](screenshot.png)
+//![Project Screenshot](screenshot.png)
 
 ## Table of Contents
 
 - [Description](#description)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Changelog](#changelog)
 - [Contact](#contact)
 
 ## Description
 
-A more detailed project description that explains what your React project does and why it's useful.
-
-## Demo
-
-Provide a link to a live demo or screenshots showcasing your React app in action.
+The Energy Market Frontend offers an intuitive interface for energy traders to participate in the market seamlessly. Create new proposals, modify existing ones, and accept offers – all through a user-friendly application. Dive into the details of each proposal, including its current stage (created, modified, finalized), and stay up-to-date with the activities of fellow traders.
 
 ## Features
 
-- List some key features of your React app.
-- Feature 1: Describe feature 1.
-- Feature 2: Describe feature 2.
+- Create new energy proposals effortlessly.
+- Update and modify existing proposals according to market dynamics.
+- Accept offers and agreements with a simple click.
+- Track the lifecycle of proposals through various stages: created, modified, and finalized.
+- Gain insights into other users' proposals and their current status.
+
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-react-project.git
-
+   git clone https://github.com/yourusername/Energy-Market-Frontend.git
+2. Navigate to the project directory:
+   ```bash
+   cd Energy-Market-Frontend
+3. Install dependencies:
+   ```bash
+   npm install
+## Usage
+1. Start the development server:
+  ```bash
+   npm run dev
+2. Open your web browser and navigate to http://localhost:5173 to access the Energy Market Frontend.
+## Contributing
