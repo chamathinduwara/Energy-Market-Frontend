@@ -2,7 +2,6 @@
 
 Empower your energy trading experience with the Energy Market Frontend – your gateway to seamless proposal management. Collaborate effectively in the dynamic energy market by creating, updating, and accepting proposals with ease. Gain real-time insights into the lifecycle of proposals, from creation to finalization, and stay informed about other users' activities.
 
-//![Project Screenshot](screenshot.png)
 
 ## Table of Contents
 
@@ -47,11 +46,11 @@ The Energy Market Frontend offers an intuitive interface for energy traders to p
 
 ## Contributing
 Welcome contributions! To enhance the Energy Market Frontend, follow these steps:
-Fork the repository.
-Create a feature branch: `git checkout -b feature-name`
-Implement your changes and commit: `git commit -m 'Add feature'`
-Push to your branch: `git push origin feature-name`
-Create a pull request.
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature-name`
+3. Implement your changes and commit: `git commit -m 'Add feature'`
+4. Push to your branch: `git push origin feature-name`
+5. Create a pull request.
 
 ## License
 This project is open source and available under the MIT License.
