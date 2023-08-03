@@ -41,7 +41,22 @@ The Energy Market Frontend offers an intuitive interface for energy traders to p
    npm install
 ## Usage
 1. Start the development server:
-  ```bash
+   ```bash
    npm run dev
-2. Open your web browser and navigate to http://localhost:5173 to access the Energy Market Frontend.
+3. Open your web browser and navigate to http://localhost:5173 to access the Energy Market Frontend.
+
 ## Contributing
+Welcome contributions! To enhance the Energy Market Frontend, follow these steps:
+Fork the repository.
+Create a feature branch: `git checkout -b feature-name`
+Implement your changes and commit: `git commit -m 'Add feature'`
+Push to your branch: `git push origin feature-name`
+Create a pull request.
+
+## License
+This project is open source and available under the MIT License.
+
+## Contact
+For inquiries or support, feel free to contact us at csschamathinduwara@gmail.com
+Connect with us on GitHub: chamathinduwara
+
