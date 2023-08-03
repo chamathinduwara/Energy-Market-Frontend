@@ -56,6 +56,6 @@ Welcome contributions! To enhance the Energy Market Frontend, follow these steps
 This project is open source and available under the MIT License.
 
 ## Contact
-For inquiries or support, feel free to contact us at csschamathinduwara@gmail.com
-Connect with us on GitHub: chamathinduwara
+. For inquiries or support, feel free to contact us at csschamathinduwara@gmail.com
+. Connect with us on GitHub: chamathinduwara
 
